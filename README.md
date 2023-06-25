@@ -42,6 +42,11 @@ COMMANDES
 ```
 
 
+## Illustrations
+
+![Ecran de configuration des combattants du joueur 1]([https://github.com/votreutilisateur/votrerepo/raw/main/images/interface_utilisateur.png](https://raw.githubusercontent.com/1tneuq/1tneuq.github.io/91992bc6d63d468770ddc7b6a6d7c036fa081dec/img/brutal.png)https://raw.githubusercontent.com/1tneuq/1tneuq.github.io/91992bc6d63d468770ddc7b6a6d7c036fa081dec/img/brutal.png)
+
+
 ### Contributeurs
 
 - Quentin LACOMBE
